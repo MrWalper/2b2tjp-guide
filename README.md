@@ -8,18 +8,23 @@
 ### PvP
 [3arthh4ck](https://github.com/colorblindness/3arthh4ck/releases)<br/>
 3arthh4ckはおもにPvP用クライアントです。PvP以外の要素もありますが他のクライアントに比べて劣っています。
+<br/>  
 [GS++](https://github.com/TechAle/gsplusplus)<br/>  
 GS++はおもにPvP用クライアントです。PvP以外の要素もありますが他のクライアントに比べて劣っています。なおいちじきこのクライアントにウイルスがあると言う噂があったので使う際は自己責任でお願いします。
+<br/>  
 [TrollHack](https://github.com/Luna5ama/TrollHack/releases)<br/>  
 TrollHackは上の二つと同様、PvPクライアントです。神ブルーをもとに作られているため、GUIなどは神ブルーと似ています。神ブルーをもとにしてるとは言え、神ブルーとは比べものにならないいいPvPモジュールがあります。
 
 ### 建築やいろいろ
 [Catalyst](https://github.com/Pr3roxDLC/Catalyst)<br/>  
-CatalystはまあまあなPvPモジュールを備えていますが、それ以外のモジュールのほうが多いです。もとは有料クライアントだったものが金もうけに困って最終的にオープンソースで無料なクライアントになりました。
+CatalystはまあまあなPvPモジュールを備えていますが、それ以外のモジュールのほうが多いです。もとは有料クライアントだったものが金もうけに困って最終的にオープンソースで無料なクライアントになりました
+<br/>  。
 [Lambda](https://github.com/lambda-client/lambda)<br/>  
 Lambdaクライアントは神ブルーのアップデートされたやつです（語彙力喪失）。いろいろな役に立つモジュールとプラグインシステムがあります。プラグインのインストール方法やどこでプラグインを手に入れればいいかはのちののち追加していきます、今のところ[このリンク](https://github.com/lambda-plugins/)だけはっときます。
+<br/>  
 [Impact](https://impactclient.net/)<br/>  
 Impactは悪口はかれがちなクライアントです。Impactはけっこう初心者向けのクライアントです、とくに面白いモジュールなどはありません。
+<br/>  
 
 ## Dupe場の作り方
 
