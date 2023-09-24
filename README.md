@@ -6,19 +6,19 @@
 2b2t.jpはアナーキーサーバーです。なのでハッククライアントを使っても大丈夫です。使うハッククライアントは用途と個人的な好き嫌いで変わります。僕は個人的にLambdaとCatalystを使っています（僕はPvPをしないためこれらはPｖPに向いてないクライアントです）。下にいろいろなクライアントのリンクと情報を載せます
 
 ### PvP
-[3arthh4ck](https://github.com/colorblindness/3arthh4ck/releases)</b>
+[3arthh4ck](https://github.com/colorblindness/3arthh4ck/releases)<br/>
 3arthh4ckはおもにPvP用クライアントです。PvP以外の要素もありますが他のクライアントに比べて劣っています。
-[GS++](https://github.com/TechAle/gsplusplus)</b>
+[GS++](https://github.com/TechAle/gsplusplus)<br/>  
 GS++はおもにPvP用クライアントです。PvP以外の要素もありますが他のクライアントに比べて劣っています。なおいちじきこのクライアントにウイルスがあると言う噂があったので使う際は自己責任でお願いします。
-[TrollHack](https://github.com/Luna5ama/TrollHack/releases)</b>
+[TrollHack](https://github.com/Luna5ama/TrollHack/releases)<br/>  
 TrollHackは上の二つと同様、PvPクライアントです。神ブルーをもとに作られているため、GUIなどは神ブルーと似ています。神ブルーをもとにしてるとは言え、神ブルーとは比べものにならないいいPvPモジュールがあります。
 
 ### 建築やいろいろ
-[Catalyst](https://github.com/Pr3roxDLC/Catalyst)</b>
+[Catalyst](https://github.com/Pr3roxDLC/Catalyst)<br/>  
 CatalystはまあまあなPvPモジュールを備えていますが、それ以外のモジュールのほうが多いです。もとは有料クライアントだったものが金もうけに困って最終的にオープンソースで無料なクライアントになりました。
-[Lambda](https://github.com/lambda-client/lambda)</b>
+[Lambda](https://github.com/lambda-client/lambda)<br/>  
 Lambdaクライアントは神ブルーのアップデートされたやつです（語彙力喪失）。いろいろな役に立つモジュールとプラグインシステムがあります。プラグインのインストール方法やどこでプラグインを手に入れればいいかはのちののち追加していきます、今のところ[このリンク](https://github.com/lambda-plugins/)だけはっときます。
-[Impact](https://impactclient.net/)</b>
+[Impact](https://impactclient.net/)<br/>  
 Impactは悪口はかれがちなクライアントです。Impactはけっこう初心者向けのクライアントです、とくに面白いモジュールなどはありません。
 
 ## Dupe場の作り方
